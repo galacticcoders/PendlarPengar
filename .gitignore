@@ -1,0 +1,18 @@
+# Ignore Xcode user-specific data
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserdatad/
+*.xcshareddata/xcschemes/xcschememanagement.plist
+
+# Build artifacts and temporary files
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM
+
+# Swift Package Manager
+.build/
+
+# Other user-specific files
+*.xcuserstate
